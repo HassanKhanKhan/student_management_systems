@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-t)z##t_&xddreswk$yc-6458$21kd4-dt#o^0=beh2)f_b=j7z
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["studentmanagementsystem2000.herokuapp.com/"]
+ALLOWED_HOSTS = ["studentmanagementsystem0340.herokuapp.com"]
 
 MEDIA_URL = "/media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, "media")
