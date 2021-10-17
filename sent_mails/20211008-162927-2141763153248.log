@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: Staff1@gmail.com
+Date: Fri, 08 Oct 2021 11:29:27 -0000
+Message-ID: <163369256784.13296.4914379699066839780@Hassan-Khan.Home>
+
+
+You're receiving this email because you requested a password reset for your user account at 127.0.0.1:8000.
+
+Please go to the following page and choose a new password:
+
+http://127.0.0.1:8000/accounts/reset/Mg/au7kh3-ba5b7f306c5bca17e9a39766a2b88bbf/
+
+Your username, in case you’ve forgotten: Staff1
+
+Thanks for using our site!
+
+The 127.0.0.1:8000 team
+
+
+
+-------------------------------------------------------------------------------
